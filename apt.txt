@@ -5,3 +5,4 @@ zlib1g-dev
 libatlas-base-dev
 libglfw3
 freeglut3-dev
+libegl1
