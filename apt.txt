@@ -1,7 +1,0 @@
-libjpeg-dev
-libfreetype6
-libfreetype6-dev
-zlib1g-dev 
-libatlas-base-dev 
-libglfw3 
-freeglut3-dev
