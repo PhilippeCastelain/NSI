@@ -1,1 +1,4 @@
 # requirements.in
+
+ipympl
+matplotlib
